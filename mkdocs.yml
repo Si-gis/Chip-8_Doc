@@ -9,3 +9,5 @@ theme:
     - navigation.top.cursor_animation.hide
     - revision.date
     - style.links.underline.hide
+plugins:
+    - awesome-pages
